@@ -1,0 +1,14 @@
+{
+    "name": "GI checkin",
+    "description": "GI checkin by tqk2811",
+    "version": "0.0.0.1",
+    "permissions": [ "*://*.mihoyo.com/*" ],
+    "background": {
+        "scripts": [ "background.js" ],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_icon": "img/icon.png"
+    },
+    "manifest_version": 2
+}
