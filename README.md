@@ -1,2 +1,6 @@
 # Auto Checkin Genshin Impact
-How to use: Login to [web](https://webstatic-sea.mihoyo.com/ys/event/signin-sea/index.html?act_id=e202102251931481), install chrome extension in dev mode and just open chrome every day
+How to use: 
++ `Code` -> `Download Zip` -> `Extract`  
++ Login to [web](https://webstatic-sea.mihoyo.com/ys/event/signin-sea/index.html?act_id=e202102251931481)  
++ Goto `chrome://extensions/`, enable `developer mode`. Click `Load Unpacked` and navigate to `/src/` was extract  
++ Open chrome every day
