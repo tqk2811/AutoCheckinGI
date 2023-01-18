@@ -2,7 +2,7 @@
     "name": "GI checkin",
     "description": "GI checkin by tqk2811",
     "version": "0.0.0.1",
-    "host_permissions": [ "*://*.mihoyo.com/*" ],
+    "host_permissions": [ "*://*.hoyolab.com/*" ],
     "permissions": [
         "webRequest"
     ],
