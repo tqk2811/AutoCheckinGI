@@ -1,5 +1,5 @@
 # Auto Checkin Genshin Impact
-Update: Since miHoYo has added captcha, this extension will no longer work.
+Update: Since miHoYo has added captcha, this extension will no longer work.  
 How to use: 
 + `Code` -> `Download Zip` and extract in your computer.    
 + Login to [web](https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481)  
