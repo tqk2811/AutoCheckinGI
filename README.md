@@ -1,5 +1,5 @@
 # Auto Checkin Genshin Impact
-Update: Since miHoYo has added captcha, this extension will no longer work.  
+Update: Since miHoYo has added captcha, this extension won't always work.
 ________________________
 How to use: 
 + `Code` -> `Download Zip` and extract in your computer.    
